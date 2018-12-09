@@ -8,6 +8,18 @@
     border: solid 2px black;
 }
 
+@media screen and (max-width: 600px) {
+.container {
+    
+    background-color: darkgray;
+    width: 90%;
+    margin: 20px auto 20px auto;
+    padding: 8px;
+    overflow: hidden;
+    border: solid 2px black;
+}
+}
+
 body{
     background-image: url("../images/moviePosterBackground.jpg");
     background-attachment: fixed;
