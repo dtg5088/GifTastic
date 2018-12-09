@@ -1,0 +1,16 @@
+.container {
+    
+    background-color: darkgray;
+    width: 75%;
+    margin: auto;
+    margin-top: 70px;
+    padding: 30px;
+    overflow: hidden;
+    border: solid 2px black;
+}
+
+body{
+    background-image: url("../images/moviePosterBackground.jpg");
+    background-attachment: fixed;
+
+}
