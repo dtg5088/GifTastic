@@ -2,8 +2,7 @@
     
     background-color: darkgray;
     width: 75%;
-    margin: auto;
-    margin-top: 70px;
+    margin: 70px auto 70px auto;
     padding: 30px;
     overflow: hidden;
     border: solid 2px black;
@@ -12,5 +11,8 @@
 body{
     background-image: url("../images/moviePosterBackground.jpg");
     background-attachment: fixed;
+}
 
+h1 {
+    color: rgb(160, 5, 95);
 }
